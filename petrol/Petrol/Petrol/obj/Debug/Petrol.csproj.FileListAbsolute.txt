@@ -1,0 +1,15 @@
+C:\Users\Han\source\repos\petrol\Petrol\Petrol\bin\Debug\Petrol.exe.config
+C:\Users\Han\source\repos\petrol\Petrol\Petrol\bin\Debug\Petrol.exe
+C:\Users\Han\source\repos\petrol\Petrol\Petrol\bin\Debug\Petrol.pdb
+C:\Users\Han\source\repos\petrol\Petrol\Petrol\obj\Debug\Petrol.csproj.AssemblyReference.cache
+C:\Users\Han\source\repos\petrol\Petrol\Petrol\obj\Debug\Petrol.Properties.Resources.resources
+C:\Users\Han\source\repos\petrol\Petrol\Petrol\obj\Debug\Petrol.csproj.GenerateResource.cache
+C:\Users\Han\source\repos\petrol\Petrol\Petrol\obj\Debug\Petrol.csproj.CoreCompileInputs.cache
+C:\Users\Han\source\repos\petrol\Petrol\Petrol\obj\Debug\Petrol.exe
+C:\Users\Han\source\repos\petrol\Petrol\Petrol\obj\Debug\Petrol.pdb
+C:\Users\Han\source\repos\petrol\Petrol\Petrol\obj\Debug\Petrol.AnaForm.resources
+C:\Users\Han\source\repos\petrol\Petrol\Petrol\obj\Debug\Petrol.Subel.resources
+C:\Users\Han\source\repos\petrol\Petrol\Petrol\obj\Debug\Petrol.SubeForm.resources
+C:\Users\Han\source\repos\petrol\Petrol\Petrol\obj\Debug\Petrol.SubeYonetimiForm.resources
+C:\Users\Han\source\repos\petrol\Petrol\Petrol\obj\Debug\Petrol.yakitTalepleriForm.resources
+C:\Users\Han\source\repos\petrol\Petrol\Petrol\obj\Debug\Petrol.AnaDepoYonetimiForm.resources
